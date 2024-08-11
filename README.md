@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starsky0426
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in AIGC
+- 🌱 I’m currently learning diffusion model
 - 💞️ I’m looking to collaborate on computer technology
 - 📫 How to reach me: moc.kooltuo@21snunus
 
